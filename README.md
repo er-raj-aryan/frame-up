@@ -26,7 +26,7 @@ Welcome to **FrameUp**, a sleek, responsive, black-and-white photography portfol
 ```bash
 git clone https://github.com/yourusername/frameup-portfolio.git
 cd frameup-portfolio
-
+```
 open index.html
 
 
